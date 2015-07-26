@@ -23,4 +23,4 @@ Future Updates:
 
 3. Further lessen the keyboard power on/off delay
 
-4. Allow for IR/bluetooth remote control of the keyboard power from afar (applicable in a classroom with many students) with the choice to use or not use the heart-beat control
+4. Allow for IR/bluetooth remote control of the keyboard power from afar (applicable in a classroom with many students) with the choice to use or not use the heartbeat control
