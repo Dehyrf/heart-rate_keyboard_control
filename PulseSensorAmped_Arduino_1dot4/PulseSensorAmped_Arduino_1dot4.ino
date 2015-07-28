@@ -32,9 +32,9 @@ static boolean serialVisual = false;   // Set to 'false' by Default.  Re-set to 
 
 void setup(){
   pinMode(blinkPin,OUTPUT); 
-//pinMode(8,INPUT_PULLUP);  // pin that will blink to your heartbeat!
+//pinMode(8,INPUT_PULLUP); 
   pinMode(fadePin,OUTPUT); 
- pinMode(powerPin,OUTPUT);    // pin that will fade to your heartbeat!
+ pinMode(powerPin,OUTPUT);    
   Serial.begin(115200);             // we agree to talk fast!
   interruptSetup();                 // sets up to read Pulse Sensor signal every 2mS 
    // UN-COMMENT THE NEXT LINE IF YOU ARE POWERING The Pulse Sensor AT LOW VOLTAGE, 
